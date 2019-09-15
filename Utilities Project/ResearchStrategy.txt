@@ -1,0 +1,2 @@
+9/15/19
+My current research strategy is fairly simple. I usually type in plain, perhaps slightly general terms of what I need. If I need examples of how to track the nearest enemy in unity I’ll type something like Unity find enemy. Then I try to choose results from Unity or Windows Resources, followed by stack overflow. After that I will consult other forums for more specific issues, understanding that I might not get exactly what I want.
